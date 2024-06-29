@@ -1,1 +1,0 @@
-Este repositório contém uma série de exercícios de Python para praticar conceitos fundamentais da linguagem. As atividades aqui presentes foram propostas pelo Gustavo Guanabara durante o progresso do "Curso Python".

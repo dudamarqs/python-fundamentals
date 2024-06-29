@@ -1,0 +1,1 @@
+Neste repositorio estão meus exercicios iniciais usando Python. Os exercícios presentes foram propostos pelo Gustavo Guanabara no seu curso sobre Python.

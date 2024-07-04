@@ -1,1 +1,1 @@
-Neste repositorio estão meus exercicios iniciais usando Python. Os exercícios presentes foram propostos pelo Gustavo Guanabara no seu curso sobre Python.
+Este repositório contém meus exercícios iniciais usando Python, conforme propostos por Gustavo Guanabara em seu curso sobre Python (Python 3 - Mundo 1).
